@@ -1,0 +1,8 @@
+.env
+.env.*
+*api_key*
+*secret*
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
